@@ -3,23 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://wellfitindia.com/sitemap.xml
-
-# Disallow admin areas (WordPress)
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /wp-content/plugins/
-Disallow: /wp-json/
-
-# Disallow duplicate content
-Disallow: /*?s=
-Disallow: /*&s=
-Disallow: /tag/
-Disallow: /category/
-
-# Allow crawlers full access to main content
-Allow: /blog/
-Allow: /wp-content/uploads/
+Sitemap: https://thiblol.github.io/wellfit-site/sitemap.xml
 
 # Crawl delay (be nice to servers)
 Crawl-delay: 5

@@ -5,5 +5,3 @@ Allow: /
 # Sitemaps
 Sitemap: https://thiblol.github.io/wellfit-site/sitemap.xml
 
-# Crawl delay (be nice to servers)
-Crawl-delay: 5

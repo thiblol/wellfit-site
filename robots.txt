@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://wellfitworld.com/sitemap.xml
+Sitemap: https://wellfitindia.com/sitemap.xml
 
 # Disallow admin areas (WordPress)
 Disallow: /wp-admin/

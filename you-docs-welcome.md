@@ -1,0 +1,344 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: "For AI agents: a documentation index is available at the root level at /llms.txt. Append /llms.txt to any URL for a page-level index, or .md for the markdown version of any page."
+  - region "Notifications alt+T"
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e324]:
+        - paragraph [ref=e327]:
+          - text: "The You.com Finance Research API is here—and it’s already #1 on FinSearchComp."
+          - link "Try it now →" [ref=e328] [cursor=pointer]:
+            - /url: /docs/api-reference/finance-research/v1-finance_research/
+        - button [ref=e329] [cursor=pointer]:
+          - img [ref=e331]
+      - banner [ref=e7]:
+        - link "Logo" [ref=e8] [cursor=pointer]:
+          - /url: /docs/welcome
+          - img "Logo" [ref=e9]
+        - navigation [ref=e10]:
+          - tablist [ref=e12]:
+            - tab "Home" [selected] [ref=e13] [cursor=pointer]:
+              - generic [ref=e14]: Home
+            - tab "SDKs & tools" [ref=e15] [cursor=pointer]:
+              - generic [ref=e16]: SDKs & tools
+            - tab "API reference" [ref=e17] [cursor=pointer]:
+              - generic [ref=e18]: API reference
+            - tab "Pricing" [ref=e19] [cursor=pointer]:
+              - generic [ref=e20]: Pricing
+        - generic [ref=e21]:
+          - link "Go to Platform" [ref=e22] [cursor=pointer]:
+            - /url: https://you.com/platform
+            - generic [ref=e23]:
+              - generic [ref=e24]: Go to Platform
+              - img [ref=e26]
+          - link [ref=e28] [cursor=pointer]:
+            - /url: https://you.com/discord
+            - img [ref=e31]
+          - button [ref=e33] [cursor=pointer]:
+            - img
+    - main [ref=e34]:
+      - complementary [ref=e35]:
+        - generic [ref=e37]:
+          - button "Search" [ref=e38]:
+            - img
+            - text: Search
+          - button [ref=e39] [cursor=pointer]:
+            - img [ref=e41]
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - generic [ref=e49]: Get started
+              - list [ref=e50]:
+                - listitem [ref=e51]:
+                  - link "Welcome" [ref=e52] [cursor=pointer]:
+                    - /url: /docs/welcome
+                    - generic [ref=e53]: Welcome
+                - listitem [ref=e54]:
+                  - link "Quickstart" [ref=e55] [cursor=pointer]:
+                    - /url: /docs/quickstart
+                    - generic [ref=e56]: Quickstart
+            - listitem [ref=e57]:
+              - generic [ref=e59]: Guides
+              - list [ref=e60]:
+                - listitem [ref=e61]:
+                  - link "Search API" [ref=e62] [cursor=pointer]:
+                    - /url: /docs/guides/search
+                    - generic [ref=e63]: Search API
+                - listitem [ref=e64]:
+                  - link "Contents API" [ref=e65] [cursor=pointer]:
+                    - /url: /docs/guides/contents
+                    - generic [ref=e66]: Contents API
+                - listitem [ref=e67]:
+                  - link "Research API" [ref=e68] [cursor=pointer]:
+                    - /url: /docs/guides/research
+                    - generic [ref=e69]: Research API
+                - listitem [ref=e70]:
+                  - link "Finance Research API" [ref=e71] [cursor=pointer]:
+                    - /url: /docs/guides/finance-research
+                    - generic [ref=e72]: Finance Research API
+                - listitem [ref=e73]:
+                  - link "Get live news" [ref=e74] [cursor=pointer]:
+                    - /url: /docs/guides/live-news
+                    - generic [ref=e75]: Get live news
+                - listitem [ref=e76]:
+                  - link "Retrieve page content" [ref=e77] [cursor=pointer]:
+                    - /url: /docs/guides/retrieve-page-content
+                    - generic [ref=e78]: Retrieve page content
+                - listitem [ref=e79]:
+                  - link "Search Operators" [ref=e80] [cursor=pointer]:
+                    - /url: /docs/guides/search-operators
+                    - generic [ref=e81]: Search Operators
+                - listitem [ref=e82]:
+                  - link "How to Evaluate the Search API" [ref=e83] [cursor=pointer]:
+                    - /url: /docs/guides/evaluate-us
+                    - generic [ref=e84]: How to Evaluate the Search API
+            - listitem [ref=e85]:
+              - generic [ref=e87]: Capabilities
+              - list [ref=e88]:
+                - listitem [ref=e89]:
+                  - link "Web Search API for AI Agents" [ref=e90] [cursor=pointer]:
+                    - /url: /docs/capabilities/web-search-api-for-ai-agents
+                    - generic [ref=e91]: Web Search API for AI Agents
+                - listitem [ref=e92]:
+                  - link "MCP Server for Web Search" [ref=e93] [cursor=pointer]:
+                    - /url: /docs/capabilities/mcp-server-for-web-search
+                    - generic [ref=e94]: MCP Server for Web Search
+                - listitem [ref=e95]:
+                  - link "Grounding LLM Responses with Citations" [ref=e96] [cursor=pointer]:
+                    - /url: /docs/capabilities/grounding-llm-responses-with-citations
+                    - generic [ref=e97]: Grounding LLM Responses with Citations
+            - listitem [ref=e98]:
+              - generic [ref=e100]: Administration
+              - list [ref=e101]:
+                - listitem [ref=e102]:
+                  - link "Account" [ref=e103] [cursor=pointer]:
+                    - /url: /docs/administration/account
+                    - generic [ref=e104]: Account
+                - listitem [ref=e105]:
+                  - link "Billing" [ref=e106] [cursor=pointer]:
+                    - /url: /docs/administration/billing
+                    - generic [ref=e107]: Billing
+                - listitem [ref=e108]:
+                  - link "API Keys" [ref=e109] [cursor=pointer]:
+                    - /url: /docs/administration/api-keys
+                    - generic [ref=e110]: API Keys
+            - listitem [ref=e111]:
+              - generic [ref=e113]: Support
+              - list [ref=e114]:
+                - listitem [ref=e115]:
+                  - link "Platform" [ref=e116] [cursor=pointer]:
+                    - /url: https://you.com/platform
+                    - generic [ref=e117]: Platform
+                - listitem [ref=e118]:
+                  - link "Support" [ref=e119] [cursor=pointer]:
+                    - /url: https://you.com/support
+                    - generic [ref=e120]: Support
+                - listitem [ref=e121]:
+                  - link "Resources" [ref=e122] [cursor=pointer]:
+                    - /url: https://you.com/resources
+                    - generic [ref=e123]: Resources
+                - listitem [ref=e124]:
+                  - link "System Status" [ref=e125] [cursor=pointer]:
+                    - /url: https://status.you.com/
+                    - generic [ref=e126]: System Status
+                    - img [ref=e127]
+          - navigation [ref=e131]:
+            - list [ref=e132]:
+              - listitem [ref=e133]:
+                - link [ref=e134] [cursor=pointer]:
+                  - /url: /docs/welcome
+                  - text: Welcome
+              - listitem [ref=e135]:
+                - link [ref=e136] [cursor=pointer]:
+                  - /url: /docs/quickstart
+                  - text: Quickstart
+              - listitem [ref=e137]:
+                - link [ref=e138] [cursor=pointer]:
+                  - /url: /docs/guides/search
+                  - text: Search API
+              - listitem [ref=e139]:
+                - link [ref=e140] [cursor=pointer]:
+                  - /url: /docs/guides/contents
+                  - text: Contents API
+              - listitem [ref=e141]:
+                - link [ref=e142] [cursor=pointer]:
+                  - /url: /docs/guides/research
+                  - text: Research API
+              - listitem [ref=e143]:
+                - link [ref=e144] [cursor=pointer]:
+                  - /url: /docs/guides/finance-research
+                  - text: Finance Research API
+              - listitem [ref=e145]:
+                - link [ref=e146] [cursor=pointer]:
+                  - /url: /docs/guides/live-news
+                  - text: Get live news
+              - listitem [ref=e147]:
+                - link [ref=e148] [cursor=pointer]:
+                  - /url: /docs/guides/retrieve-page-content
+                  - text: Retrieve page content
+              - listitem [ref=e149]:
+                - link [ref=e150] [cursor=pointer]:
+                  - /url: /docs/guides/search-operators
+                  - text: Search Operators
+              - listitem [ref=e151]:
+                - link [ref=e152] [cursor=pointer]:
+                  - /url: /docs/guides/evaluate-us
+                  - text: How to Evaluate the Search API
+              - listitem [ref=e153]:
+                - link [ref=e154] [cursor=pointer]:
+                  - /url: /docs/capabilities/web-search-api-for-ai-agents
+                  - text: Web Search API for AI Agents
+              - listitem [ref=e155]:
+                - link [ref=e156] [cursor=pointer]:
+                  - /url: /docs/capabilities/mcp-server-for-web-search
+                  - text: MCP Server for Web Search
+              - listitem [ref=e157]:
+                - link [ref=e158] [cursor=pointer]:
+                  - /url: /docs/capabilities/grounding-llm-responses-with-citations
+                  - text: Grounding LLM Responses with Citations
+              - listitem [ref=e159]:
+                - link [ref=e160] [cursor=pointer]:
+                  - /url: /docs/administration/account
+                  - text: Account
+              - listitem [ref=e161]:
+                - link [ref=e162] [cursor=pointer]:
+                  - /url: /docs/administration/billing
+                  - text: Billing
+              - listitem [ref=e163]:
+                - link [ref=e164] [cursor=pointer]:
+                  - /url: /docs/administration/api-keys
+                  - text: API Keys
+      - complementary
+      - generic [ref=e167]:
+        - article [ref=e168]:
+          - heading "Build agentic apps with real-time web intelligence." [level=1] [ref=e173]:
+            - paragraph [ref=e334]: Build agentic apps with real-time web intelligence.
+          - generic [ref=e177]:
+            - paragraph [ref=e338]: We've created the core infrastructure needed to power private, real-time, reliable AI solutions so that you don't have to. Access real-time Search, Content and Research APIs, all with industry-leading accuracy.
+            - heading "Try our APIs" [level=3] [ref=e339] [cursor=pointer]
+            - img "Refractive Light Graphic" [ref=e344]
+            - generic [ref=e348]:
+              - generic [ref=e349]:
+                - generic [ref=e350]:
+                  - button "Search" [pressed] [ref=e351] [cursor=pointer]
+                  - button "Contents" [ref=e352] [cursor=pointer]
+                  - button "Research" [ref=e353] [cursor=pointer]
+                  - button "Finance Research" [ref=e354] [cursor=pointer]
+                - link "Go to Platform" [ref=e355] [cursor=pointer]:
+                  - /url: https://you.com/platform
+                  - text: Go to Platform
+                  - img [ref=e356]
+              - generic [ref=e359]:
+                - generic [ref=e360]:
+                  - button "Python" [ref=e362] [cursor=pointer]:
+                    - text: Python
+                    - img [ref=e363]
+                  - button "Copy to clipboard" [ref=e365] [cursor=pointer]:
+                    - img [ref=e366]
+                - generic [ref=e370]:
+                  - generic [ref=e371]: from youdotcom import You
+                  - generic [ref=e373]: "with You(\"<apiKey>\") as you:"
+                  - generic [ref=e374]: res = you.search.unified(
+                  - generic [ref=e375]: query="best practices for scaling microservices architecture in production",
+                  - generic [ref=e376]: )
+                  - generic [ref=e378]: "# Each result contains a title, URL, snippets and more"
+                  - generic [ref=e379]: "if res.results and res.results.web:"
+                  - generic [ref=e380]: "for result in res.results.web:"
+                  - generic [ref=e381]: "print(f\"Title: {result.title}\")"
+                  - generic [ref=e382]: "print(f\"URL: {result.url}\")"
+                  - generic [ref=e383]: "if result.snippets:"
+                  - generic [ref=e384]: "print(f\"Snippet: {result.snippets[0]}\\n\")"
+            - heading "Try it free — no API key required" [level=3] [ref=e385] [cursor=pointer]
+            - paragraph [ref=e386]:
+              - text: Connect any MCP-enabled tool (Claude Code, Cursor, VS Code, JetBrains, and more) to
+              - code [ref=e387]: https://api.you.com/mcp?profile=free
+              - text: and use
+              - code [ref=e388]: you-search
+              - text: with no signup or credentials. Limited to 100 queries per day. For higher limits and access to
+              - code [ref=e389]: you-contents
+              - text: ","
+              - code [ref=e390]: you-research
+              - text: ", and"
+              - code [ref=e391]: you-finance
+              - text: ", get an API key at"
+              - link "you.com/platform" [ref=e392] [cursor=pointer]:
+                - /url: https://you.com/platform
+              - text: — new accounts start with $100 in complimentary credits. See the
+              - link "MCP Server guide" [ref=e393] [cursor=pointer]:
+                - /url: /docs/build-with-agents/mcp-server
+              - text: for setup.
+            - heading "Use cases" [level=3] [ref=e394] [cursor=pointer]
+            - generic [ref=e395]:
+              - link "Data APIs Real-time Search and Content APIs for building intelligent agents" [ref=e396] [cursor=pointer]:
+                - /url: /docs/api-reference/search/v1-search
+                - generic [ref=e397]:
+                  - img [ref=e399]
+                  - generic [ref=e401]:
+                    - generic [ref=e402]: Data APIs
+                    - paragraph [ref=e404]: Real-time Search and Content APIs for building intelligent agents
+              - link "SDK & tools Get SDKs, CLI, the OpenAPI spec, and prebuilt quickstart for easy integration" [ref=e405] [cursor=pointer]:
+                - /url: /docs/integrations-overview
+                - generic [ref=e406]:
+                  - img [ref=e408]
+                  - generic [ref=e410]:
+                    - generic [ref=e411]: SDK & tools
+                    - paragraph [ref=e413]: Get SDKs, CLI, the OpenAPI spec, and prebuilt quickstart for easy integration
+            - heading "Popular APIs" [level=3] [ref=e414] [cursor=pointer]
+            - generic [ref=e415]:
+              - link "Search Returns real-time, LLM-ready web and news results" [ref=e416] [cursor=pointer]:
+                - /url: /docs/api-reference/search/v1-search
+                - generic [ref=e417]:
+                  - img [ref=e419]
+                  - generic [ref=e421]:
+                    - generic [ref=e422]: Search
+                    - paragraph [ref=e424]: Returns real-time, LLM-ready web and news results
+              - link "Research Multi-step reasoning that searches, reads, and synthesizes into a well-cited answer" [ref=e425] [cursor=pointer]:
+                - /url: /docs/api-reference/research/v1-research
+                - generic [ref=e426]:
+                  - img [ref=e428]
+                  - generic [ref=e430]:
+                    - generic [ref=e431]: Research
+                    - paragraph [ref=e433]: Multi-step reasoning that searches, reads, and synthesizes into a well-cited answer
+              - link "Contents Retrieves clean HTML or Markdown content from any webpage" [ref=e434] [cursor=pointer]:
+                - /url: /docs/api-reference/contents
+                - generic [ref=e435]:
+                  - img [ref=e437]
+                  - generic [ref=e439]:
+                    - generic [ref=e440]: Contents
+                    - paragraph [ref=e442]: Retrieves clean HTML or Markdown content from any webpage
+            - separator [ref=e443]
+            - heading "Questions and feedback" [level=3] [ref=e444] [cursor=pointer]
+            - paragraph [ref=e445]:
+              - text: If you have any questions or feedback, refer to the
+              - strong [ref=e446]: Support
+              - text: section in the sidebar, where you’ll find helpful resources.
+        - generic [ref=e294]:
+          - generic [ref=e298]:
+            - generic [ref=e299]: Was this page helpful?
+            - generic [ref=e300]:
+              - button "Yes" [ref=e301] [cursor=pointer]:
+                - img
+                - text: "Yes"
+              - button "No" [ref=e302] [cursor=pointer]:
+                - img
+                - text: "No"
+          - link "Built with" [ref=e303] [cursor=pointer]:
+            - /url: https://buildwithfern.com/?utm_campaign=buildWith&utm_medium=docs&utm_source=you.com
+            - generic [ref=e304]: Built with
+            - img [ref=e305]
+          - generic [ref=e308]:
+            - separator [ref=e309]
+            - generic [ref=e310]:
+              - link "Follow on X" [ref=e311] [cursor=pointer]:
+                - /url: https://you.com/x
+                - img [ref=e312]
+              - link "Follow on Discord" [ref=e314] [cursor=pointer]:
+                - /url: https://you.com/discord
+                - img [ref=e315]
+              - link "Follow on LinkedIn" [ref=e317] [cursor=pointer]:
+                - /url: https://you.com/linkedin
+                - img [ref=e318]
+              - link "Follow on Website" [ref=e320] [cursor=pointer]:
+                - /url: https://you.com
+                - img [ref=e321]
+    - contentinfo
+  - alert [ref=e447]
